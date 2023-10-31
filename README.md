@@ -31,7 +31,7 @@ NVIM
 
 TMUX
 - Install tmux
-- Copy the .tmux.conf inside of the Home directory
+- Copy the tmux.conf as .tmux.conf inside of the Home directory
 - Install using <C-s-I> (or <C-b-I> depending if the given config is up todate with the keybinding
 
-
+Take some fernet with cola and enjoy
