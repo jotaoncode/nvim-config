@@ -18,3 +18,20 @@ Tmux? I enjoy using properly more than one small screen with only those things t
 I added some basics to the usage of mouse, added the darcula and some presentation in the line like kubernetes context, weather info, and cpu / ram / battery usage.
 
 Last but not least oh my god shell config with zshrc and in some ocassions guake to have an immediate window for some basics commands at distance of a keystroke is always welcomed.
+
+### Installation
+
+Before doing anything and if you are new to this, go to youtube see theprimeagen video about nvim from scratch. Then you might want to consider following to install this plugins by yourself too.
+This is just for me to have things at hand cross computers, and no need to repeat my self for the same configs.
+
+NVIM
+- Install nvim
+- Copy the directory nvim inside of the folder .config of your home directory.
+- Install all the plugins running :PackerSync
+
+TMUX
+- Install tmux
+- Copy the .tmux.conf inside of the Home directory
+- Install using <C-s-I> (or <C-b-I> depending if the given config is up todate with the keybinding
+
+
