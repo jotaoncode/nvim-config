@@ -29,8 +29,11 @@ NVIM
 - Copy the directory nvim inside of the folder .config of your home directory.
 - Install all the plugins running :PackerSync
 
+Don't forget to source the files before installing the plugins :) 
+
 TMUX
 - Install tmux
+- Install tpm tmux
 - Copy the tmux.conf as .tmux.conf inside of the Home directory
 - Install using <C-s-I> (or <C-b-I> depending if the given config is up todate with the keybinding
 
