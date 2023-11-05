@@ -11,7 +11,10 @@ Vim I loved it, but is a very personal tool not suitable at all for Pair Program
 NVIM simple wow, what a beautiful upgrade to vim, such a beautiful community out there providing such a good input, still not suitable for Pairprogramming or doing massive code changes...
 But still for fun programming and moving with my own personal taste is just my preferred choice. Many of the decisions taken here are from Theprimeagen + some personal ones from me
 
-NVIM plugins I added to The primeagen, Nerdtree, surround.vim, and support for the languages I use, typescript, javascript, golang.
+NVIM plugins I added to The primeagen, Tree for Nvim, surround nvim, startify, and support for the languages I use, typescript, javascript, golang.
+Changed some of the keybindings for my own preferences, some of them I did not touch because they just made sense, indentation in 2, just beacuse is more laptop friendly.
+Also added a follower in the indentation too.
+
 Not that much more for plugins as I like it light weight as possible.
 
 Tmux? I enjoy using properly more than one small screen with only those things that are meaningful to me, like following logs of k8s, tests during coding sessions or monitoring things...
