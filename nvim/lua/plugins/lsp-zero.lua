@@ -13,8 +13,7 @@ return {
   {
     'williamboman/mason.nvim',
     lazy = false,
-    config = true,
-  },
+    config = true, },
 
   -- Autocompletion
   {
@@ -90,7 +89,8 @@ return {
 
       require('mason-lspconfig').setup({
         ensure_installed = {
-          "gopls"
+          "gopls",
+          "biome"
         },
         handlers = {
           lsp_zero.default_setup,

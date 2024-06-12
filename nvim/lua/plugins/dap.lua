@@ -1,11 +1,11 @@
 return {
   'mfussenegger/nvim-dap',
   config = function() 
-    require('dap').adapters.go = {
-      type = 'executable';
-      command = 'node';
-      args = {os.getenv('HOME') .. '/projects/vscode-go/dist/debugAdapter.js'};
-    }
+    -- require('dap').adapters.go = {
+    --   type = 'executable';
+    --   command = 'node';
+    --   args = {os.getenv('HOME') .. '/projects/vscode-go/dist/debugAdapter.js'};
+    -- }
     require('dap').configurations.go = {
       {
         type = 'go';
